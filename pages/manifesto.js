@@ -1,0 +1,1 @@
+// Manifesto page will be here
